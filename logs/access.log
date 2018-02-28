@@ -1,0 +1,175 @@
+10.10.10.227 [23/Feb/2018:21:15:33 -0600] PLAY "live" "test" "" - 371 793485 "" "LNX 9,0,124,2" (6s)
+10.10.10.227 [23/Feb/2018:21:15:56 -0600] PLAY "live" "test" "" - 424 5907320 "" "LNX 9,0,124,2" (23s)
+10.10.10.220 [23/Feb/2018:21:19:07 -0600] PUBLISH "live" "test" "" - 90367266 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (4m 32s)
+10.10.10.220 [23/Feb/2018:21:22:07 -0600] PUBLISH "live" "test" "" - 58358015 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (2m 56s)
+10.10.10.227 [23/Feb/2018:21:28:53 -0600] PLAY "live" "test" "" - 371 1610979 "" "LNX 9,0,124,2" (14s)
+10.10.10.220 [23/Feb/2018:21:29:03 -0600] PLAY "live" "test" "" - 589 53079610 "" "LNX 9,0,124,2" (8m 5s)
+10.10.10.227 [23/Feb/2018:21:29:30 -0600] PLAY "live" "test" "" - 371 552061 "" "LNX 9,0,124,2" (3s)
+10.10.10.220 [23/Feb/2018:21:29:37 -0600] PUBLISH "live" "test" "" - 40665433 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (2m 22s)
+10.10.10.227 [23/Feb/2018:21:29:42 -0600] PLAY "live" "test" "" - 371 1360757 "" "LNX 9,0,124,2" (12s)
+10.10.10.227 [23/Feb/2018:21:35:07 -0600] PLAY "live" "test" "" - 529 43455154 "" "AND 24,0,0,174" (2m 37s)
+207.224.137.194 - - [23/Feb/2018:21:48:28 -0600] "\x03\x00\x00\x08v\x80\x00\x07\x02\x8F\xAC~8\xCE\xD2\xF2\xB1\xD4\x1C\xB9\xC0lo\xC4\x0E\xA6c\x18\x1D\x8E\xA3\xF1.aw9\x01\x05\xE1|\x7F\xEC\x91^\x0F\xE2PJ\xAAS\xC8\xDD\xDF=\xBF\xEE\x8C\x99\xD5W\x06N\xEA\x93M\xA9x.\x84\xFE\x8FUId\xFA\xDC\xCB\xC0*-T /\xB0QS\xCF\xA4\x02\xBE\x92dZ\x9Aj\xC9\xBD\x8F\xFD#\xF0\xF3,\x1CW\x0Fc\xE8X%\xE1\xA3g1\x16O\xDB`\xA8\xFF\x80\x8B\x83\xD2\x83{\xD8\xEC\x01\x13\x05\xC6#\xA6\xC5\xF4\xE9\x16\x1C\xBB\xC0\xB8\xAD\x16\xE5cB\x98\x8C\x80^H\x1A\xBE\xD5\xFD0\xC0\xF4\x92c\xCC\xDC\x12^\xEE2^\x94\xAC\xFED\xE5\xCB\xADl\xDB\xA2\x1C\x92\xF8" 400 173 "-" "-"
+207.224.137.194 [23/Feb/2018:21:54:14 -0600] PLAY "live" "test" "" - 700 102042406 "https://www.hlsplayer.net/rtmp-player" "WIN 28,0,0,161" (5m 46s)
+10.10.10.220 [23/Feb/2018:22:04:52 -0600] PLAY "live" "test" "" - 1459 478263755 "https://www.hlsplayer.net/rtmp-player" "WIN 28,0,0,161" (28m 2s)
+10.10.10.227 [23/Feb/2018:22:05:12 -0600] PLAY "live" "test" "" - 431 163622 "" "AND 24,0,0,174" (3s)
+10.10.10.227 [23/Feb/2018:22:05:49 -0600] PLAY "live" "test" "" - 431 46930 "" "AND 24,0,0,174" (2s)
+10.10.10.220 [23/Feb/2018:22:07:17 -0600] PLAY "live" "test" "" - 574 36908209 "https://www.hlsplayer.net/rtmp-player" "WIN 28,0,0,161" (2m 23s)
+10.10.10.1 [23/Feb/2018:22:10:41 -0600] PLAY "live" "test" "" - 462 17679282 "" "AND 24,0,0,174" (1m 0s)
+68.227.119.31 [23/Feb/2018:22:13:11 -0600] PLAY "live" "streamName" "" - 430 542 "" "AND 24,0,0,174" (10s)
+10.10.10.1 [23/Feb/2018:22:13:54 -0600] PLAY "live" "test" "" - 431 1967614 "" "AND 24,0,0,174" (12s)
+68.227.119.31 [23/Feb/2018:22:13:57 -0600] PLAY "live" "test" "" - 453 8359045 "" "AND 24,0,0,174" (33s)
+10.10.10.1 [23/Feb/2018:22:14:21 -0600] PLAY "live" "test" "" - 457 8375884 "" "AND 24,0,0,174" (25s)
+68.227.119.31 [23/Feb/2018:22:21:10 -0600] PLAY "live" "test" "" - 575 3305457 "" "AND 24,0,0,174" (24s)
+10.10.10.1 [23/Feb/2018:22:28:02 -0600] PLAY "live" "test" "" - 508 37342738 "" "AND 24,0,0,174" (1m 58s)
+172.58.136.62 [23/Feb/2018:22:28:52 -0600] PLAY "live" "test" "" - 395 39262 "" "AND 24,0,0,174" (3s)
+10.10.10.1 [23/Feb/2018:22:29:43 -0600] PLAY "live" "test" "" - 578 5992 "" "AND 24,0,0,174" (20m 3s)
+10.10.10.1 [23/Feb/2018:22:43:35 -0600] PLAY "live" "test" "" - 982 291432435 "" "AND 24,0,0,174" (14m 41s)
+10.10.10.227 [23/Feb/2018:22:56:05 -0600] PLAY "live" "test" "" - 832 196025071 "" "AND 24,0,0,174" (10m 5s)
+10.10.10.227 [23/Feb/2018:23:36:14 -0600] PLAY "live" "test" "" - 878 221144926 "" "AND 24,0,0,174" (11m 10s)
+10.10.10.220 [24/Feb/2018:00:36:35 -0600] PUBLISH "live" "test" "" - 3596280707 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (3h 6m 58s)
+10.10.10.220 [24/Feb/2018:00:36:37 -0600] PLAY "live" "test" "" - 11420 3513562702 "" "LNX 9,0,124,2" (3h 1m 51s)
+157.55.39.199 - - [24/Feb/2018:00:47:36 -0600] "GET / HTTP/1.1" 200 612 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+40.77.167.187 - - [24/Feb/2018:00:47:43 -0600] "GET /robots.txt HTTP/1.1" 404 169 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+157.55.39.199 - - [24/Feb/2018:01:11:06 -0600] "GET / HTTP/1.1" 200 612 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+10.10.10.227 [24/Feb/2018:01:28:06 -0600] PLAY "live" "test" "" - 420 542 "" "AND 24,0,0,174" (14s)
+125.39.222.47 - - [24/Feb/2018:01:47:55 -0600] "CONNECT 136.63.81.104 HTTP/1.1" 400 173 "-" "-"
+139.162.108.53 - - [24/Feb/2018:02:40:07 -0600] "GET / HTTP/1.1" 200 612 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36"
+189.191.196.9 - - [24/Feb/2018:03:44:43 -0600] "GET /wp-login.php HTTP/1.1" 404 169 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+89.40.218.2 - - [24/Feb/2018:05:56:18 -0600] "GET /cgi-bin/php HTTP/1.1" 404 169 "-" "-"
+89.40.218.2 - - [24/Feb/2018:05:56:19 -0600] "GET /cgi-bin/php5 HTTP/1.1" 404 169 "-" "-"
+89.40.218.2 - - [24/Feb/2018:05:56:19 -0600] "GET /cgi-bin/php-cgi HTTP/1.1" 404 169 "-" "-"
+89.40.218.2 - - [24/Feb/2018:05:56:19 -0600] "GET /cgi-bin/php.cgi HTTP/1.1" 404 169 "-" "-"
+89.40.218.2 - - [24/Feb/2018:05:56:19 -0600] "GET /cgi-bin/php4 HTTP/1.1" 404 169 "-" "-"
+89.40.218.2 - - [24/Feb/2018:05:56:19 -0600] "GET /cgi-bin/php5-cli HTTP/1.1" 404 169 "-" "-"
+89.40.218.2 - - [24/Feb/2018:05:56:19 -0600] "GET /cgi-bin/test.cgi HTTP/1.1" 404 169 "-" "-"
+89.40.218.2 - - [24/Feb/2018:05:56:20 -0600] "GET /cgi-sys/php5 HTTP/1.1" 404 169 "-" "-"
+209.126.119.32 - - [24/Feb/2018:07:35:06 -0600] "GET / HTTP/1.1" 200 612 "-" "-"
+5.255.250.94 - - [24/Feb/2018:08:10:49 -0600] "GET /robots.txt HTTP/1.1" 404 169 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)"
+5.255.250.94 - - [24/Feb/2018:08:10:52 -0600] "GET /icons/subsonic_logo.png;jsessionid=1o1ghj5gj19vu HTTP/1.1" 404 169 "-" "Mozilla/5.0 (compatible; YandexImages/3.0; +http://yandex.com/bots)"
+157.55.39.199 - - [24/Feb/2018:08:40:29 -0600] "GET / HTTP/1.1" 200 612 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+216.244.66.242 - - [24/Feb/2018:09:07:08 -0600] "GET /robots.txt HTTP/1.1" 404 169 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)"
+216.244.66.242 - - [24/Feb/2018:09:15:33 -0600] "GET / HTTP/1.1" 200 612 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)"
+216.244.66.242 - - [24/Feb/2018:09:31:37 -0600] "GET / HTTP/1.1" 200 612 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)"
+157.55.39.199 - - [24/Feb/2018:14:10:37 -0600] "GET / HTTP/1.1" 200 612 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+157.55.39.199 - - [24/Feb/2018:15:09:32 -0600] "GET / HTTP/1.1" 200 612 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+10.10.10.227 [24/Feb/2018:15:24:10 -0600] PLAY "live" "test" "" - 420 542 "" "AND 24,0,0,174" (10s)
+10.10.10.227 [24/Feb/2018:15:32:00 -0600] PLAY "live" "test" "" - 441 578 "" "AND 24,0,0,174" (3m 47s)
+10.10.10.227 [24/Feb/2018:15:36:12 -0600] PLAY "live" "test" "" - 448 596 "" "AND 24,0,0,174" (4m 6s)
+10.10.10.227 [24/Feb/2018:15:43:23 -0600] PLAY "live" "test" "" - 430 508 "" "AND 24,0,0,174" (5m 7s)
+77.88.185.157 - - [24/Feb/2018:16:04:31 -0600] "GET / HTTP/1.1" 400 173 "-" "-"
+10.10.10.227 [24/Feb/2018:16:11:28 -0600] PLAY "live" "test" "" - 420 542 "" "AND 24,0,0,174" (50s)
+216.244.66.242 - - [24/Feb/2018:16:30:40 -0600] "GET /robots.txt HTTP/1.1" 404 169 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)"
+216.244.66.242 - - [24/Feb/2018:16:47:53 -0600] "GET /recover.view HTTP/1.1" 404 169 "-" "Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)"
+84.244.180.102 - - [24/Feb/2018:17:34:22 -0600] "GET /cgi-bin/php HTTP/1.1" 404 169 "-" "-"
+84.244.180.102 - - [24/Feb/2018:17:34:22 -0600] "GET /cgi-bin/php5 HTTP/1.1" 404 169 "-" "-"
+84.244.180.102 - - [24/Feb/2018:17:34:22 -0600] "GET /cgi-bin/php-cgi HTTP/1.1" 404 169 "-" "-"
+84.244.180.102 - - [24/Feb/2018:17:34:22 -0600] "GET /cgi-bin/php.cgi HTTP/1.1" 404 169 "-" "-"
+84.244.180.102 - - [24/Feb/2018:17:34:23 -0600] "GET /cgi-bin/php4 HTTP/1.1" 404 169 "-" "-"
+84.244.180.102 - - [24/Feb/2018:17:34:23 -0600] "GET /cgi-bin/php5-cli HTTP/1.1" 404 169 "-" "-"
+84.244.180.102 - - [24/Feb/2018:17:34:23 -0600] "GET /cgi-bin/test.cgi HTTP/1.1" 404 169 "-" "-"
+84.244.180.102 - - [24/Feb/2018:17:34:23 -0600] "GET /cgi-sys/php5 HTTP/1.1" 404 169 "-" "-"
+10.10.10.220 [24/Feb/2018:19:50:26 -0600] PUBLISH "live" "test" "" - 10385897 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (40s)
+10.10.10.220 - - [24/Feb/2018:21:32:05 -0600] "\x03\x00U\xC88\x80\x00\x07\x02\xDC\x87x\x22\xDCb1w>\x02\x90\xBC\x9A\xFB~\xA0\xF5\xE0\xAC\xC4\xDD\xFC\x7F\xF9\x91\x11\xE1\x19\xF5\xBD0\x81\xB17t\x0F\xC927\xE7\xEC\x1EI\xDF!N\xC9\x11\xDABN\x08\x09h\x12Nfr\xDD\xF2=\x8A\xB3" 400 173 "-" "-"
+10.10.10.220 - - [24/Feb/2018:21:32:06 -0600] "POST /fcs/ident2 HTTP/1.1" 404 169 "-" "Shockwave Flash"
+10.10.10.220 - - [24/Feb/2018:21:32:06 -0600] "POST /open/1 HTTP/1.1" 404 169 "-" "Shockwave Flash"
+10.10.10.220 - - [24/Feb/2018:21:32:07 -0600] "\x16\x03\x01\x00\xAE\x01\x00\x00\xAA\x03\x03\x1D\xA3\x02c\x01\xD9p\xA7\xE7\x7F\xC4|z\xCF\xF2!\xB1\xE6\xCDpk\x17\x8B\xC7\x96\xF4yK1&?5\x00\x00\x1C\x1A\x1A\xC0+\xC0/\xC0,\xC00\xCC\xA9\xCC\xA8\xC0\x13\xC0\x14\x00\x9C\x00\x9D\x00/\x005\x00" 400 173 "-" "-"
+10.10.10.220 - - [24/Feb/2018:21:36:38 -0600] "\x03\x00Y\xF1T\x80\x00\x07\x02\xD4\xA8D\xD9X\x19\x17>\xE6\xF6>\x058\xA4\x11M\x95\xA5=Z\xCA\x1B\xAF\xB0\x89pU\x94i\x17!\xE6\x92&=X\x9BLbc\xFF\xDB%\xF7\xE6NWqo\x04`\xE1Gls~^x\xA0\x90\x03J\xD3|1\xFE;\xC4\x0C\x9E\xBF\x11\x1Ei\xB9\xB47K\xD1<\xF3\x07\xB1\x0B\xA1\x7F\xC2\x0CX\x1B\x03\xAF\x1B\xB4\xADY\x86\x02" 400 173 "-" "-"
+10.10.10.220 - - [24/Feb/2018:21:36:39 -0600] "POST /fcs/ident2 HTTP/1.1" 404 169 "-" "Shockwave Flash"
+10.10.10.220 - - [24/Feb/2018:21:36:39 -0600] "\x16\x03\x01\x00\xAE\x01\x00\x00\xAA\x03\x03\xA5\xD7\xB9\xE4\xB4r\x9B\x83<\x07C\x98\xE2\x98\xF9\x84\x13\xD0\xEE\x9Bi\x049\xE4|*\x9F\xE1v" 400 173 "-" "-"
+10.10.10.220 [24/Feb/2018:21:48:26 -0600] PLAY "live" "test" "" - 526 23562303 "https://www.wowza.com/testplayers" "WIN 28,0,0,161" (1m 48s)
+10.10.10.220 [24/Feb/2018:22:05:00 -0600] PUBLISH "live" "test" "" - 376066590 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (28m 29s)
+10.10.10.220 [24/Feb/2018:23:03:27 -0600] PLAY "live" "test" "" - 1949 365990025 "" "LNX 9,0,124,2" (1h 26m 26s)
+10.10.10.220 [24/Feb/2018:23:03:38 -0600] PLAY "live" "test" "" - 1422 254522762 "https://www.hlsplayer.net/rtmp-player" "WIN 28,0,0,161" (1h 18m 8s)
+10.10.10.220 [25/Feb/2018:00:20:35 -0600] PUBLISH "live" "test" "" - 706215960 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (54m 29s)
+211.48.228.200 - - [25/Feb/2018:01:03:50 -0600] "GET / HTTP/1.1" 400 173 "-" "-"
+10.10.10.220 [25/Feb/2018:01:53:55 -0600] PLAY "live" "test" "" - 3207 684106678 "" "LNX 9,0,124,2" (2h 27m 35s)
+10.10.10.220 - - [27/Feb/2018:20:48:42 -0600] "\x03\x00\x00" 400 173 "-" "-"
+10.10.10.220 - - [27/Feb/2018:20:48:42 -0600] "\x03\x00\x00" 400 173 "-" "-"
+10.10.10.220 - - [27/Feb/2018:20:48:42 -0600] "\x03\x00\x00" 400 173 "-" "-"
+10.10.10.220 - - [27/Feb/2018:20:48:42 -0600] "\x03\x00\x00" 400 173 "-" "-"
+10.10.10.220 - - [27/Feb/2018:20:49:04 -0600] "\x03\x00\x00\x08U\x80\x00\x07\x02\x923\xA4=+\x19\xA2\xCE\x92k\xCFa\xDF\x82\xA5x\xDA\xFEl\xD0a\x97.\x07Zh:~0T\x1E\xCF\x5CH\xA2\xFBbi\xC8\x05B\xC8\xA6 \x13\x8B\xDB\xF4!\xA7\xD6\xC1{\x8ATq4A\x84\xED\xDE\xC5\xD6\xABc?U\xF7N>5\xCF\xC1jJYP^\xDA}\xF5\xFE\xEC\xEBU!n`\xFA\xADD\xDE\xCB_\xF5\x1Cb%\x09\xEF\x07GX\xDF" 400 173 "-" "-"
+10.10.10.220 - - [27/Feb/2018:20:49:04 -0600] "\x03\x00\x00\x08\xF2\x80\x00\x07\x02\xC5\x89\xDDo\xF5\xA0\x1BD\x9B\x92\x99k\xD0\xE6\x05\xC5\xCF\xCFs6[\xDC\xAE\x83\xE1\x85\xFA\x07\xF4\x18\xA1R5x]\xFE8\xA6\xA3#\xA1V\xFA\x13\xBC\xF7\xAC\x8FG\xA9\xCE;\x08 \x8A\xE0v.>$\x997\x05\x9B\xB0\xFB\xFBg\xD8\xEC\xA8^\x99j\x8F\xF7\x0C\x8D[\xB2\xE1\x8F\xF3\x9F\x87\x80\x18k\xDA\x13uTR\x8C\x5C\xA3\xF3\x93\xD8y=\xE5\x1F\xC2\xD9R\xE9\xD8\x7Fz\x16K\x1F\xFF\xA1H\x10\xA0\x03J8Cg\xCA\xBC\xD4\x1AI\x80\x024Py6\x94k\xA5y\xF2\x0E\x90\xD5B\xC9 \xA3\x8C\x9B.\xED\xA3sN\xD1\x06\xA8yx\x7F\xAD\xEF\x8C\xD7\xEBX+\xB5-fGsH\xCC\x01\xE0\xDA9{\xC4\xB3\x13\x19\xF23\x92>Tl#\xADW\xC9\xED\xE5\xDC\x9768\xED\xB7y\xD1\x8B\xF3|4>I78@\xD2:\xCF\xD5\xE8\xB4=\xCC\x01\xF8\x1B8z!\x0E\x80\xCB\xF5\xD1\xB3\xD8\xD4A\x5C\x1A\xF0\xDCY\xC7q\xB5\xEFU\x90:\xA3\xE0)" 400 173 "-" "-"
+10.10.10.220 - - [27/Feb/2018:20:49:04 -0600] "\x03\x00\x00\x09\x88\x80\x00\x07\x02g\x9E\x16\x87\x82\xE1\xC9\xE1\x8F`\x9A|\xBAS\xCF\xC6\x04H?\x8C\xFF\x0F\xA9\xD3yG\xE5\xCF\xD4\xF4\xF7\x02gCQ\xF1%\xAACAZ;\xDF]\xA3\x5C \xB6}\xDD\xFF/5|\xBAlY\xE5[\xFB\xA2\x9F@\x87B\xD0\xEC\xDD\x86#\xCA\x88\xDBBe\x07(G\xCE\xDA\xF6\xA8\xE4I\xC4Y\xAE\x8EU\xEB\x0C!\xDF\xFA\xE2\xEAA\xC0b\x1B\x22\xDC\xE6dW(SvI\xCDI\xBA\xBD\xD80A\xEC\x0C\xF5\x9DO\xD0q\xA8\x96:\x916\x5Cw\x07T\xA1q\xF7\x9D\x86\x89HN\xDD\x1F\xEF0\xA7\xAB0E0&\xE3z\x0C\x87~\x90V\xC3\x06\xF5\x8Cu\xD5U\xD8\x94GbU\xECR\xB4l\x17\xC7/\x8A\xD3)\x03\x8C\xB9+\x91\x90O\x82\xBE\x07\xE0\xA1iR\x1A\xA5 \x7FP\x11\xB6\x8C\xE6J\x19\xC2\x22\xD5\xA7\x8D\xD8\x015\xDF\x22\x0C;\x1EX1\x16 \xDA\xDACC6\xEE\x0C8D\xF1\xAE\xE8\xD6IP\x19\xCE_\xEF^p\xB1\xE7\x05\x87#\xC6\x1E\x86\xDE\xBBZ\xF4G\xC0\xA1N\xB8\xCB3\xBA\xB3h\xE9H^\xCA\xAF\xA8R\xF6\xF2\x1Ew\xDB\x8D\xF0q\x8B\xB5\xE1\x00\x14V\xB7\x89/\xB0\xD3G\xDC\xBC\xD4\xC5?`H\x08;\x80@)\xFC;m\x82\xDB:q\x02.\x92\xF5vQ\x0B0\xDD\x81qd\xB1\xE7\xAA\xE0x\x83\x1F" 400 173 "-" "-"
+10.10.10.220 - - [27/Feb/2018:20:49:04 -0600] "\x03\x00\x00" 400 173 "-" "-"
+10.10.10.220 [27/Feb/2018:20:52:11 -0600] PUBLISH "show" "test" "" - 284954955 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (17m 11s)
+10.10.10.220 - - [27/Feb/2018:21:06:36 -0600] "GET /hls/ HTTP/1.1" 403 571 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:21:06:37 -0600] "GET /favicon.ico HTTP/1.1" 404 571 "http://10.10.10.123:8080/hls/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:21:06:51 -0600] "GET /hls/show/test HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:21:06:55 -0600] "GET /hls/show/ HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:21:07:13 -0600] "GET /hls/stream.m3u8 HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:21:07:21 -0600] "\x16\x03\x01\x00\xAE\x01\x00\x00\xAA\x03\x03\xB6\x91\xAD5r/}4T\x03\xAC\xB5:1t\xB7\xE3\xE3[\xBD\xA0\x17\xA8\xD1\x07\xD9\xD4F\xA71+\x9E\x00\x00\x1C\xBA\xBA\xC0+\xC0/\xC0,\xC00\xCC\xA9\xCC\xA8\xC0\x13\xC0\x14\x00\x9C\x00\x9D\x00/\x005\x00" 400 173 "-" "-"
+10.10.10.220 - - [27/Feb/2018:21:07:21 -0600] "\x16\x03\x01\x00\xAE\x01\x00\x00\xAA\x03\x03{w[\x5CNC[\xF7\x0FU\x05\x8B\x8A\xE0\x82\x110_W\xC8\xD0\x89\xBC\x95\x8A\x08\xB0'X\xB9\x84\x10\x00\x00\x1Czz\xC0+\xC0/\xC0,\xC00\xCC\xA9\xCC\xA8\xC0\x13\xC0\x14\x00\x9C\x00\x9D\x00/\x005\x00" 400 173 "-" "-"
+10.10.10.220 - - [27/Feb/2018:21:07:21 -0600] "\x16\x03\x01\x00\xAE\x01\x00\x00\xAA\x03\x03\x87\xDB\xCB6\xF7\xB0*o\x93\x03,\xC5\x9A\xAD\xE6z9\xF5t\xC5~\xC4\x22\x9Eqg\xCA>\x1E^\x8As\x00\x00\x1C\x8A\x8A\xC0+\xC0/\xC0,\xC00\xCC\xA9\xCC\xA8\xC0\x13\xC0\x14\x00\x9C\x00\x9D\x00/\x005\x00" 400 173 "-" "-"
+10.10.10.220 - - [27/Feb/2018:21:07:26 -0600] "GET /hls/stream.m3u8 HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:21:12:42 -0600] "GET /hls/test.m3u8 HTTP/1.1" 200 615 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:21:13:10 -0600] "GET /hls/test.m3u8 HTTP/1.1" 200 615 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:21:13:34 -0600] "GET /hls/test.m3u8 HTTP/1.1" 206 615 "-" "VLC/2.2.4 LibVLC/2.2.4"
+10.10.10.220 - - [27/Feb/2018:21:13:34 -0600] "GET /hls/test-273.ts HTTP/1.1" 206 2248856 "-" "VLC/2.2.4 LibVLC/2.2.4"
+10.10.10.220 - - [27/Feb/2018:21:13:34 -0600] "GET /hls/test-274.ts HTTP/1.1" 206 2387976 "-" "VLC/2.2.4 LibVLC/2.2.4"
+10.10.10.220 - - [27/Feb/2018:21:13:34 -0600] "GET /hls/test-275.ts HTTP/1.1" 206 2570900 "-" "VLC/2.2.4 LibVLC/2.2.4"
+10.10.10.220 - - [27/Feb/2018:21:13:42 -0600] "GET /hls/test.m3u8 HTTP/1.1" 206 615 "-" "VLC/2.2.4 LibVLC/2.2.4"
+10.10.10.220 - - [27/Feb/2018:21:13:42 -0600] "GET /hls/test-276.ts HTTP/1.1" 206 2403768 "-" "VLC/2.2.4 LibVLC/2.2.4"
+10.10.10.220 - - [27/Feb/2018:21:13:50 -0600] "GET /hls/test.m3u8 HTTP/1.1" 206 615 "-" "VLC/2.2.4 LibVLC/2.2.4"
+10.10.10.220 - - [27/Feb/2018:21:13:50 -0600] "GET /hls/test-277.ts HTTP/1.1" 206 2407528 "-" "VLC/2.2.4 LibVLC/2.2.4"
+10.10.10.220 - - [27/Feb/2018:21:13:58 -0600] "GET /hls/test.m3u8 HTTP/1.1" 206 615 "-" "VLC/2.2.4 LibVLC/2.2.4"
+10.10.10.220 - - [27/Feb/2018:21:13:58 -0600] "GET /hls/test-278.ts HTTP/1.1" 206 2572216 "-" "VLC/2.2.4 LibVLC/2.2.4"
+10.10.10.220 - - [27/Feb/2018:21:14:06 -0600] "GET /hls/test.m3u8 HTTP/1.1" 206 615 "-" "VLC/2.2.4 LibVLC/2.2.4"
+10.10.10.220 - - [27/Feb/2018:21:14:06 -0600] "GET /hls/test-279.ts HTTP/1.1" 206 2580488 "-" "VLC/2.2.4 LibVLC/2.2.4"
+10.10.10.220 - - [27/Feb/2018:21:20:29 -0600] "GET /hls/test.m3u8 HTTP/1.1" 206 615 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:21:20:29 -0600] "GET /hls/test.ts HTTP/1.1" 404 169 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:21:20:29 -0600] "GET /hls/test.mpd HTTP/1.1" 404 169 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:21:47:28 -0600] "GET /hls/test.mp4 HTTP/1.1" 404 571 "http://10.10.10.123:8000/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:21:47:37 -0600] "GET /hls/test.mp4 HTTP/1.1" 404 571 "http://10.10.10.123:8000/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:21:48:10 -0600] "GET /hls/test.mp4 HTTP/1.1" 404 571 "http://10.10.10.123:8000/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:21:48:28 -0600] "GET /hls/test.mp4 HTTP/1.1" 404 169 "http://10.10.10.123:8000/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:21:49:06 -0600] "GET /hls/test.mp4 HTTP/1.1" 404 169 "http://10.10.10.123:8000/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:21:59:35 -0600] "GET /crossdomain.xml HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:22:01:48 -0600] "GET /show HTTP/1.1" 404 169 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:22:01:48 -0600] "GET /favicon.ico HTTP/1.1" 404 169 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:22:16:54 -0600] "GET / HTTP/1.1" 403 169 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:22:17:09 -0600] "GET /index.html HTTP/1.1" 404 169 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:22:17:16 -0600] "GET /50x.html HTTP/1.1" 404 169 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:22:30:31 -0600] "GET / HTTP/1.1" 200 660 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:22:30:52 -0600] "GET / HTTP/1.1" 200 660 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:22:31:10 -0600] "GET / HTTP/1.1" 200 660 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 OPR/50.0.2762.67"
+10.10.10.220 - - [27/Feb/2018:22:32:32 -0600] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:22:33:56 -0600] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:22:34:37 -0600] "GET / HTTP/1.1" 200 660 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:22:38:25 -0600] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:22:38:36 -0600] "GET / HTTP/1.1" 200 660 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:22:38:36 -0600] "GET /favicon.ico HTTP/1.1" 404 571 "http://10.10.10.123:8080/" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:22:45:57 -0600] "GET /hls/show/test.m3u8 HTTP/1.1" 404 169 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:22:46:09 -0600] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:23:15:27 -0600] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:23:15:49 -0600] "GET /index.html HTTP/1.1" 200 660 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 [27/Feb/2018:23:16:17 -0600] PUBLISH "show" "test" "" - 640812612 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (37m 35s)
+10.10.10.220 - - [27/Feb/2018:23:16:25 -0600] "GET /index.html HTTP/1.1" 200 660 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.227 - - [27/Feb/2018:23:17:07 -0600] "GET /index.html HTTP/1.1" 200 660 "-" "Mozilla/5.0 (Android 8.1.0; Mobile; rv:58.0) Gecko/58.0 Firefox/58.0"
+10.10.10.227 - - [27/Feb/2018:23:17:08 -0600] "GET /favicon.ico HTTP/1.1" 404 169 "-" "Mozilla/5.0 (Android 8.1.0; Mobile; rv:58.0.2) Gecko/58.0.2 Firefox/58.0.2"
+10.10.10.220 - - [27/Feb/2018:23:18:24 -0600] "GET /index.html HTTP/1.1" 200 660 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:23:18:24 -0600] "GET /favicon.ico HTTP/1.1" 404 571 "http://10.10.10.123:8080/index.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:23:19:03 -0600] "GET /index.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:23:19:22 -0600] "GET /hls/test.m3u8 HTTP/1.1" 206 615 "-" "VLC/2.2.4 LibVLC/2.2.4"
+10.10.10.220 - - [27/Feb/2018:23:19:22 -0600] "GET /hls/test-289.ts HTTP/1.1" 206 2191892 "-" "VLC/2.2.4 LibVLC/2.2.4"
+10.10.10.220 - - [27/Feb/2018:23:19:22 -0600] "GET /hls/test-290.ts HTTP/1.1" 206 2298488 "-" "VLC/2.2.4 LibVLC/2.2.4"
+10.10.10.220 - - [27/Feb/2018:23:19:22 -0600] "GET /hls/test-291.ts HTTP/1.1" 206 2347180 "-" "VLC/2.2.4 LibVLC/2.2.4"
+10.10.10.220 - - [27/Feb/2018:23:20:54 -0600] "GET /index.html HTTP/1.1" 200 660 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:23:20:55 -0600] "GET /favicon.ico HTTP/1.1" 404 571 "http://10.10.10.123:8080/index.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:23:20:56 -0600] "GET /index.html HTTP/1.1" 200 660 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:23:20:57 -0600] "GET /favicon.ico HTTP/1.1" 404 571 "http://10.10.10.123:8080/index.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:23:21:02 -0600] "GET /index.html HTTP/1.1" 200 660 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 OPR/50.0.2762.67"
+10.10.10.220 - - [27/Feb/2018:23:21:02 -0600] "GET /favicon.ico HTTP/1.1" 404 571 "http://10.10.10.123:8080/index.html" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36 OPR/50.0.2762.67"
+10.10.10.220 - - [27/Feb/2018:23:21:24 -0600] "GET /index.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0"
+10.10.10.220 - - [27/Feb/2018:23:21:31 -0600] "GET /index.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:23:22:10 -0600] "GET /crossdomain.xml HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 - - [27/Feb/2018:23:22:12 -0600] "GET /crossdomain.xml HTTP/1.1" 404 571 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.186 Safari/537.36"
+10.10.10.220 [27/Feb/2018:23:22:52 -0600] PLAY "show" "test" "" - 493 454 "https://www.hlsplayer.net/rtmp-player" "WIN 28,0,0,161" (0s)
+10.10.10.220 [27/Feb/2018:23:23:38 -0600] NONE "show" "" "" - 413 292 "https://www.hlsplayer.net/rtmp-player" "WIN 28,0,0,161" (45s)
+10.10.10.220 [27/Feb/2018:23:23:44 -0600] PLAY "show" "test" "" - 493 454 "https://www.hlsplayer.net/rtmp-player" "WIN 28,0,0,161" (0s)
+10.10.10.220 [27/Feb/2018:23:24:23 -0600] PLAY "show" "test" "" - 497 454 "https://www.hlsplayer.net/rtmp-player" "WIN 28,0,0,161" (0s)
+10.10.10.220 [27/Feb/2018:23:27:17 -0600] PLAY "show" "test" "" - 371 454 "" "LNX 9,0,124,2" (0s)
+10.10.10.220 [27/Feb/2018:23:27:44 -0600] PUBLISH "show" "test" "" - 182641740 529 "" "FMLE/3.0 (compatible; FMSc/1.0)" (11m 25s)
+10.10.10.227 - - [27/Feb/2018:23:28:34 -0600] "GET /index.html HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Android 8.1.0; Mobile; rv:58.0) Gecko/58.0 Firefox/58.0"
+10.10.10.131 - - [27/Feb/2018:23:31:45 -0600] "GET /index.html HTTP/1.1" 200 660 "-" "Mozilla/5.0 (iPad; CPU OS 11_2_5 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D60 Safari/604.1"
+10.10.10.131 - - [27/Feb/2018:23:32:40 -0600] "GET /hls/test.m3u8 HTTP/1.1" 404 169 "-" "Mozilla/5.0 (iPad; CPU OS 11_2_5 like Mac OS X) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0 Mobile/15D60 Safari/604.1"
+10.10.10.220 [28/Feb/2018:00:04:19 -0600] NONE "show" "" "" - 686 976 "https://www.hlsplayer.net/rtmp-player" "WIN 28,0,0,161" (39m 55s)

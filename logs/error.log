@@ -1,0 +1,70 @@
+2018/02/23 21:13:05 [notice] 11864#0: signal process started
+2018/02/24 00:47:43 [error] 11868#0: *156 open() "/usr/local/nginx/html/robots.txt" failed (2: No such file or directory), client: 40.77.167.187, server: localhost, request: "GET /robots.txt HTTP/1.1", host: "rheaghen.com"
+2018/02/24 03:44:43 [error] 11868#0: *161 open() "/usr/local/nginx/html/wp-login.php" failed (2: No such file or directory), client: 189.191.196.9, server: localhost, request: "GET /wp-login.php HTTP/1.1", host: "rheaghen.com"
+2018/02/24 05:56:18 [error] 11868#0: *162 open() "/usr/local/nginx/html/cgi-bin/php" failed (2: No such file or directory), client: 89.40.218.2, server: localhost, request: "GET /cgi-bin/php HTTP/1.1", host: "136.63.81.104"
+2018/02/24 05:56:19 [error] 11868#0: *162 open() "/usr/local/nginx/html/cgi-bin/php5" failed (2: No such file or directory), client: 89.40.218.2, server: localhost, request: "GET /cgi-bin/php5 HTTP/1.1", host: "136.63.81.104"
+2018/02/24 05:56:19 [error] 11868#0: *162 open() "/usr/local/nginx/html/cgi-bin/php-cgi" failed (2: No such file or directory), client: 89.40.218.2, server: localhost, request: "GET /cgi-bin/php-cgi HTTP/1.1", host: "136.63.81.104"
+2018/02/24 05:56:19 [error] 11868#0: *162 open() "/usr/local/nginx/html/cgi-bin/php.cgi" failed (2: No such file or directory), client: 89.40.218.2, server: localhost, request: "GET /cgi-bin/php.cgi HTTP/1.1", host: "136.63.81.104"
+2018/02/24 05:56:19 [error] 11868#0: *162 open() "/usr/local/nginx/html/cgi-bin/php4" failed (2: No such file or directory), client: 89.40.218.2, server: localhost, request: "GET /cgi-bin/php4 HTTP/1.1", host: "136.63.81.104"
+2018/02/24 05:56:19 [error] 11868#0: *162 open() "/usr/local/nginx/html/cgi-bin/php5-cli" failed (2: No such file or directory), client: 89.40.218.2, server: localhost, request: "GET /cgi-bin/php5-cli HTTP/1.1", host: "136.63.81.104"
+2018/02/24 05:56:19 [error] 11868#0: *162 open() "/usr/local/nginx/html/cgi-bin/test.cgi" failed (2: No such file or directory), client: 89.40.218.2, server: localhost, request: "GET /cgi-bin/test.cgi HTTP/1.1", host: "136.63.81.104"
+2018/02/24 05:56:20 [error] 11868#0: *162 open() "/usr/local/nginx/html/cgi-sys/php5" failed (2: No such file or directory), client: 89.40.218.2, server: localhost, request: "GET /cgi-sys/php5 HTTP/1.1", host: "136.63.81.104"
+2018/02/24 08:10:49 [error] 11868#0: *164 open() "/usr/local/nginx/html/robots.txt" failed (2: No such file or directory), client: 5.255.250.94, server: localhost, request: "GET /robots.txt HTTP/1.1", host: "rheaghen.com"
+2018/02/24 08:10:52 [error] 11868#0: *164 open() "/usr/local/nginx/html/icons/subsonic_logo.png;jsessionid=1o1ghj5gj19vu" failed (2: No such file or directory), client: 5.255.250.94, server: localhost, request: "GET /icons/subsonic_logo.png;jsessionid=1o1ghj5gj19vu HTTP/1.1", host: "rheaghen.com"
+2018/02/24 09:07:08 [error] 11868#0: *166 open() "/usr/local/nginx/html/robots.txt" failed (2: No such file or directory), client: 216.244.66.242, server: localhost, request: "GET /robots.txt HTTP/1.1", host: "rheaghen.com"
+2018/02/24 16:30:40 [error] 11868#0: *177 open() "/usr/local/nginx/html/robots.txt" failed (2: No such file or directory), client: 216.244.66.242, server: localhost, request: "GET /robots.txt HTTP/1.1", host: "rheaghen.com"
+2018/02/24 16:47:53 [error] 11868#0: *178 open() "/usr/local/nginx/html/recover.view" failed (2: No such file or directory), client: 216.244.66.242, server: localhost, request: "GET /recover.view HTTP/1.1", host: "rheaghen.com"
+2018/02/24 17:34:22 [error] 11868#0: *179 open() "/usr/local/nginx/html/cgi-bin/php" failed (2: No such file or directory), client: 84.244.180.102, server: localhost, request: "GET /cgi-bin/php HTTP/1.1", host: "136.63.81.104"
+2018/02/24 17:34:22 [error] 11868#0: *179 open() "/usr/local/nginx/html/cgi-bin/php5" failed (2: No such file or directory), client: 84.244.180.102, server: localhost, request: "GET /cgi-bin/php5 HTTP/1.1", host: "136.63.81.104"
+2018/02/24 17:34:22 [error] 11868#0: *179 open() "/usr/local/nginx/html/cgi-bin/php-cgi" failed (2: No such file or directory), client: 84.244.180.102, server: localhost, request: "GET /cgi-bin/php-cgi HTTP/1.1", host: "136.63.81.104"
+2018/02/24 17:34:22 [error] 11868#0: *179 open() "/usr/local/nginx/html/cgi-bin/php.cgi" failed (2: No such file or directory), client: 84.244.180.102, server: localhost, request: "GET /cgi-bin/php.cgi HTTP/1.1", host: "136.63.81.104"
+2018/02/24 17:34:23 [error] 11868#0: *179 open() "/usr/local/nginx/html/cgi-bin/php4" failed (2: No such file or directory), client: 84.244.180.102, server: localhost, request: "GET /cgi-bin/php4 HTTP/1.1", host: "136.63.81.104"
+2018/02/24 17:34:23 [error] 11868#0: *179 open() "/usr/local/nginx/html/cgi-bin/php5-cli" failed (2: No such file or directory), client: 84.244.180.102, server: localhost, request: "GET /cgi-bin/php5-cli HTTP/1.1", host: "136.63.81.104"
+2018/02/24 17:34:23 [error] 11868#0: *179 open() "/usr/local/nginx/html/cgi-bin/test.cgi" failed (2: No such file or directory), client: 84.244.180.102, server: localhost, request: "GET /cgi-bin/test.cgi HTTP/1.1", host: "136.63.81.104"
+2018/02/24 17:34:23 [error] 11868#0: *179 open() "/usr/local/nginx/html/cgi-sys/php5" failed (2: No such file or directory), client: 84.244.180.102, server: localhost, request: "GET /cgi-sys/php5 HTTP/1.1", host: "136.63.81.104"
+2018/02/24 21:32:06 [error] 11868#0: *186 open() "/usr/local/nginx/html/fcs/ident2" failed (2: No such file or directory), client: 10.10.10.220, server: localhost, request: "POST /fcs/ident2 HTTP/1.1", host: "10.10.10.123"
+2018/02/24 21:32:06 [error] 11868#0: *186 open() "/usr/local/nginx/html/open/1" failed (2: No such file or directory), client: 10.10.10.220, server: localhost, request: "POST /open/1 HTTP/1.1", host: "10.10.10.123"
+2018/02/24 21:36:39 [error] 1323#0: *5 open() "/usr/local/nginx/html/fcs/ident2" failed (2: No such file or directory), client: 10.10.10.220, server: localhost, request: "POST /fcs/ident2 HTTP/1.1", host: "10.10.10.123"
+2018/02/25 01:49:40 [emerg] 1857#0: "aio on" is unsupported on this platform in /usr/local/nginx/conf/nginx.conf:28
+2018/02/25 01:53:02 [emerg] 1892#0: "aio on" is unsupported on this platform in /usr/local/nginx/conf/nginx.conf:28
+2018/02/25 01:53:25 [emerg] 1893#0: "aio on" is unsupported on this platform in /usr/local/nginx/conf/nginx.conf:28
+2018/02/27 20:14:33 [emerg] 3311#0: "aio on" is unsupported on this platform in /usr/local/nginx/conf/nginx.conf:28
+2018/02/27 20:18:22 [emerg] 3351#0: "aio on" is unsupported on this platform in /usr/local/nginx/conf/nginx.conf:28
+2018/02/27 21:06:36 [error] 1317#0: *12 directory index of "/mnt/hls/" is forbidden, client: 10.10.10.220, server: , request: "GET /hls/ HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 21:06:37 [error] 1317#0: *12 open() "/mnt/favicon.ico" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.10.10.123:8080", referrer: "http://10.10.10.123:8080/hls/"
+2018/02/27 21:06:51 [error] 1317#0: *12 open() "/mnt/hls/show/test" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /hls/show/test HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 21:06:55 [error] 1317#0: *12 "/mnt/hls/show/index.html" is not found (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /hls/show/ HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 21:07:13 [error] 1317#0: *12 open() "/mnt/hls/stream.m3u8" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /hls/stream.m3u8 HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 21:07:26 [error] 1317#0: *12 open() "/mnt/hls/stream.m3u8" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /hls/stream.m3u8 HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 21:20:29 [error] 1317#0: *35 open() "/mnt/hls/test.ts" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /hls/test.ts HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 21:20:29 [error] 1317#0: *35 open() "/mnt/hls/test.mpd" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /hls/test.mpd HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 21:47:28 [error] 1318#0: *36 open() "/mnt/hls/test.mp4" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /hls/test.mp4 HTTP/1.1", host: "10.10.10.123:8080", referrer: "http://10.10.10.123:8000/"
+2018/02/27 21:47:37 [error] 1318#0: *36 open() "/mnt/hls/test.mp4" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /hls/test.mp4 HTTP/1.1", host: "10.10.10.123:8080", referrer: "http://10.10.10.123:8000/"
+2018/02/27 21:48:10 [error] 1318#0: *36 open() "/mnt/hls/test.mp4" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /hls/test.mp4 HTTP/1.1", host: "10.10.10.123:8080", referrer: "http://10.10.10.123:8000/"
+2018/02/27 21:48:28 [error] 1318#0: *42 open() "/mnt/hls/test.mp4" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /hls/test.mp4 HTTP/1.1", host: "10.10.10.123:8080", referrer: "http://10.10.10.123:8000/"
+2018/02/27 21:49:06 [error] 1318#0: *43 open() "/mnt/hls/test.mp4" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /hls/test.mp4 HTTP/1.1", host: "10.10.10.123:8080", referrer: "http://10.10.10.123:8000/"
+2018/02/27 21:59:35 [error] 1318#0: *47 open() "/mnt/crossdomain.xml" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /crossdomain.xml HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 22:01:48 [error] 1318#0: *48 open() "/mnt/show" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /show HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 22:01:48 [error] 1318#0: *48 open() "/mnt/favicon.ico" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 22:16:54 [error] 1318#0: *49 directory index of "/mnt/" is forbidden, client: 10.10.10.220, server: , request: "GET / HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 22:17:09 [error] 1318#0: *49 open() "/mnt/index.html" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /index.html HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 22:17:16 [error] 1318#0: *49 open() "/mnt/50x.html" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /50x.html HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 22:21:18 [emerg] 1481#0: "server" directive is not allowed here in /usr/local/nginx/conf/nginx.conf:48
+2018/02/27 22:26:04 [emerg] 1486#0: unexpected "}" in /usr/local/nginx/conf/nginx.conf:60
+2018/02/27 22:33:30 [emerg] 1530#0: directive "default_type" is not terminated by ";" in /usr/local/nginx/conf/nginx.conf:32
+2018/02/27 22:38:36 [error] 1362#0: *2 open() "/mnt/favicon.ico" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.10.10.123:8080", referrer: "http://10.10.10.123:8080/"
+2018/02/27 22:45:57 [error] 1359#0: *4 open() "/mnt/hls/show/test.m3u8" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /hls/show/test.m3u8 HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 23:14:38 [emerg] 1404#0: unexpected "}" in /usr/local/nginx/conf/nginx.conf:62
+2018/02/27 23:17:08 [error] 1362#0: *9 open() "/mnt/favicon.ico" failed (2: No such file or directory), client: 10.10.10.227, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 23:18:24 [error] 1362#0: *10 open() "/mnt/favicon.ico" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.10.10.123:8080", referrer: "http://10.10.10.123:8080/index.html"
+2018/02/27 23:20:55 [error] 1362#0: *15 open() "/mnt/favicon.ico" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.10.10.123:8080", referrer: "http://10.10.10.123:8080/index.html"
+2018/02/27 23:20:57 [error] 1362#0: *15 open() "/mnt/favicon.ico" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.10.10.123:8080", referrer: "http://10.10.10.123:8080/index.html"
+2018/02/27 23:21:02 [error] 1362#0: *16 open() "/mnt/favicon.ico" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /favicon.ico HTTP/1.1", host: "10.10.10.123:8080", referrer: "http://10.10.10.123:8080/index.html"
+2018/02/27 23:22:10 [error] 1362#0: *15 open() "/mnt/crossdomain.xml" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /crossdomain.xml HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 23:22:12 [error] 1362#0: *15 open() "/mnt/crossdomain.xml" failed (2: No such file or directory), client: 10.10.10.220, server: , request: "GET /crossdomain.xml HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 23:22:52 [error] 1362#0: *19 access forbidden by rule, client: 10.10.10.220, server: 0.0.0.0:1935
+2018/02/27 23:23:44 [error] 1362#0: *21 access forbidden by rule, client: 10.10.10.220, server: 0.0.0.0:1935
+2018/02/27 23:24:23 [error] 1362#0: *23 access forbidden by rule, client: 10.10.10.220, server: 0.0.0.0:1935
+2018/02/27 23:27:17 [error] 1362#0: *25 access forbidden by rule, client: 10.10.10.220, server: 0.0.0.0:1935
+2018/02/27 23:32:40 [error] 1362#0: *28 open() "/mnt/hls/test.m3u8" failed (2: No such file or directory), client: 10.10.10.131, server: , request: "GET /hls/test.m3u8 HTTP/1.1", host: "10.10.10.123:8080"
+2018/02/27 23:43:46 [emerg] 1427#0: invalid number of arguments in "default_type" directive in /usr/local/nginx/conf/nginx.conf:31
